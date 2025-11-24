@@ -1,2 +1,2 @@
-# Fresher_Project1
-CodezQuiz  # Quiz on Python Programming 
+# CodezQuiz
+Beginner level interactive quiz app on Python Programming which tracks your performance and shows your score.
