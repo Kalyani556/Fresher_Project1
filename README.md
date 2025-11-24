@@ -1,2 +1,2 @@
 # Fresher_Project1
-CodezQuiz 
+CodezQuiz  # Quiz on Python Programming 
