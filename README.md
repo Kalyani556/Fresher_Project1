@@ -27,6 +27,10 @@ Instructions for testing:
 3. Check whether the whole code runs without any syntax errors.
 
 Screenshot:
+<img width="1920" height="1080" alt="Screenshot (1)" src="https://github.com/user-attachments/assets/7afcbe08-a970-4aa9-a49d-895c406e9c09" />
+<img width="1920" height="1080" alt="Screenshot (2)" src="https://github.com/user-attachments/assets/45d9af42-b02c-46a3-9ac0-136a88556182" />
+<img width="1920" height="1080" alt="Screenshot (3)" src="https://github.com/user-attachments/assets/cdad12bc-e293-44dc-8c81-f4a7c06ce6f8" />
+
 
 
 
